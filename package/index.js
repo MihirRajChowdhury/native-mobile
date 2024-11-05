@@ -150,12 +150,13 @@ import { getNativeDeviceDetails } from "./nativeComponents/utils/device.utils";
 import NativeFade from "./nativeComponents/utils/NativeFade";
 import NativeModal from "./nativeComponents/utils/NativeModal";
 import NativePopover from "./nativeComponents/utils/NativePopover";
+import NativeDimension from "./NativeDimension.js";
 import NativeCssBaseline from "./theme/NativeCssBaseline";
 import NativeThemeProvider from "./theme/NativeThemeProvider";
 import { native_copyToClipboard } from "./utils/app.utils.js";
 import { useNetworkStatus } from "./utils/network.utils.js";
 export {
-  DevNativeDataTable,
+  DevNativeDataTable, NativeDimension,
   /**
    * DEVICE UTIL(s)
    */
