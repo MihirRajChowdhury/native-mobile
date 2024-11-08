@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.257](https://github.com/wrappid/native-mobile/compare/v0.0.256...v0.0.257) (2024-11-08)
+
+
+### Features
+
+* **core:** :sparkles: add dimension component ([6c631b3](https://github.com/wrappid/native-mobile/commit/6c631b33e4e060c36b3420484c3ff12c15378d40)), closes [#97](https://github.com/wrappid/native-mobile/issues/97)
+
 ### [0.0.256](https://github.com/wrappid/native-mobile/compare/v0.0.255...v0.0.256) (2024-10-10)
 
 
